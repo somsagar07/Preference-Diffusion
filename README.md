@@ -1,5 +1,5 @@
 # Preference-Diffusion
-Preference Diffusion: Optimizing diffusion models with minimal human feedback
+Preference Diffusion: Optimizing diffusion models with minimal human feedback.
 
 # Introduction
 Diffusion-based image generation models (Stable Diffusion) are good at generating high-quality images but the user has little to no control over the output. 
